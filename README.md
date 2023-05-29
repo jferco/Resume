@@ -3,4 +3,7 @@ As a software engineer with experience in Python, Bash scripting, Terraform, and
 
 With a strong foundation in critical thinking and problem-solving, I'm passionate about developing efficient, scalable solutions that meet business needs. I have a proven track record of collaborating with teams to deliver successful outcomes, and I take pride in my ability to communicate complex technical concepts to non-technical stakeholders.
 
-Whether building automation tools, optimizing infrastructure, or troubleshooting issues, I'm always looking for ways to improve processes and drive efficiencies. 
+Whether building automation tools, optimizing infrastructure, or troubleshooting issues, I'm always looking for ways to improve processes and drive efficiencies.
+
+# Resume 
+[Jose Pablo Fernández Cordero](https://github.com/jferco/Resume/blob/main/Jose%20Pablo%20Fernandez%20-%20Resume.pdf)
